@@ -27,7 +27,7 @@ function Header() {
 
           <ul className={styles.navLinks}>
             <li><a href="#">🛒 Sales</a></li>
-            <li><a href="#">📄 Receipt</a></li>
+            <li><a href="#">📄 Receipts</a></li>
             <li><a href="#">⏱️ Shift</a></li>
           </ul>
 
