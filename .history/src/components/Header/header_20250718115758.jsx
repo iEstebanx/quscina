@@ -1,4 +1,4 @@
-import styles from '../Header/Header.module.css';
+import styles from '../../Header.module.css';
 import { useState } from 'react'
 
 function Header() {

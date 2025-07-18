@@ -1,0 +1,11 @@
+.grid {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.card {
+  background: black;
+  padding: 1rem;
+  border: 1px solid #eee;
+  border-radius: 8px;
+}
