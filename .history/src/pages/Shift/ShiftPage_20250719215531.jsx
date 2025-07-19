@@ -1,0 +1,14 @@
+// pages/Shift/ShiftPage.jsx
+import styles from './Shift.module.css';
+
+const ShiftPage = () => {
+  return (
+    <div className={styles.container}>
+      <h1 className={styles.title}>Shift Management</h1>
+      <p className={styles.desc}>View and manage shift records here.</p>
+      {/* Add shift table or logic here */}
+    </div>
+  );
+};
+
+export default ShiftPage;

@@ -1,0 +1,14 @@
+.container {
+  padding: 2rem;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #d35400;
+}
+
+.desc {
+  font-size: 1rem;
+  color: #a6a6a6;
+}
